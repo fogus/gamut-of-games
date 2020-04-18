@@ -1,2 +1,6 @@
 # gamut-of-games
-a repository of rules for games in text formats
+
+A repository of rules for games in text formats.
+
+Whenever possible, the games should be "ported" to the French pack of cards.
+
