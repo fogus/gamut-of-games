@@ -1,0 +1,15 @@
+.
+├── LICENSE
+├── README.txt
+├── abstract
+│   └── mate-rules.txt
+├── cards
+│   ├── discard
+│   │   └── yaniv-rules.txt
+│   └── rummy
+│       └── gin-rules.txt
+├── listing.txt
+└── sowing
+    └── cups-rules.txt
+
+5 directories, 7 files
