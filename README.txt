@@ -1,3 +1,5 @@
+-*- mode: markdown -*-
+
 # gamut-of-games
 
 A repository of rules for games in text formats.
