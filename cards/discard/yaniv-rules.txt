@@ -9,3 +9,7 @@ Goal
 ====
 
 To earn the fewest points each round and to have the fewest points at the end of the game.
+
+The Deck
+========
+
