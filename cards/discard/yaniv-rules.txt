@@ -1,15 +1,25 @@
--*- mode: markdown -*-
-
                            **Yaniv (יניב)**
                              from Isreal
                            for 2-5 players
                              
 
-Goal
-====
+GOAL   To earn the fewest points each round and to have the fewest points at
+       the end of the game.
 
-To earn the fewest points each round and to have the fewest points at the end of the game.
+DECK   For 2-3 players use a standard French pack with two jokers. For 4-5 
+       players combine two such decks.
 
-The Deck
-========
+POINTS
+
+  - Aces are worth 1 point each.
+  - Ranked cards (i.e. 2-10) are worth their rank.
+  - Face cards are worth 10 points each.
+  - Jokers are worth zero points each.
+  
+DEAL   
+
+PLAY
+
+
+
 
