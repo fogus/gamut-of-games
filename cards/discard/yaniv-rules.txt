@@ -4,10 +4,11 @@
                              
 
 GOAL   To earn the fewest points each round and to have the fewest points at
-       the end of the game.
+       the end of the game. The game should consist of a number of rounds
+	   equally divisible by the number of players.
 
 DECK   For 2-3 players use a standard French pack with two jokers. For 4-5 
-       players combine two such decks.
+       players combine two such decks. Cards are shuffled before the deal.
 
 POINTS
 
@@ -16,10 +17,18 @@ POINTS
   - Face cards are worth 10 points each.
   - Jokers are worth zero points each.
   
-DEAL   
+DEAL   The dealer distributes 5-cards to each player one at a time. The 
+       remaining cards form a /stock/ and the top card is overturned to 
+	   form a /dump pile/ pile.
 
 PLAY
+  
+The start player of the first round is chosen randomly, every other round 
+is started by the player who won the previous round.
+	
+On a players turn may take one of the following two actions:
 
+  - 
 
 
 
