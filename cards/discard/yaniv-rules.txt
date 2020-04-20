@@ -5,20 +5,21 @@
 
 GOAL   To earn the fewest points each round and to have the fewest points at
        the end of the game. The game should consist of a number of rounds
-	   equally divisible by the number of players.
+	   equally divisible by the number of players or end when any player 
+	   reaches a certain score.
 
 DECK   For 2-3 players use a standard French pack with two jokers. For 4-5 
        players combine two such decks. Cards are shuffled before the deal.
  
 DEAL   The dealer distributes 5-cards to each player one at a time. The 
        remaining cards form a /stock/ and the top card is overturned to 
-	   form a /dump pile/ pile.
+       form a /dump pile/ pile.
 
 PLAY
   
 The start player of the first round is chosen randomly, every other round 
 is started by the player who won the previous round.
-	
+    
 On a players turn may take one of the following two actions:
 
   - Discard a /set/ or single card to the dump pile and THEN pick up ONE
@@ -32,8 +33,8 @@ Sets that may be thrown to the discard pile are as follows:
   - Two or more cards of the same rank.
   - A sequence of three or more consecutive cards of the same suit. Aces are
     always low-cards. A joker may be used in a sequence to substitute for any
-	one card.
-	
+    one card.
+    
 Sequences must be laid on the dump pile in rank order, low to high but sets
 may be laid with the suits in any order that you wish.
 
@@ -42,8 +43,8 @@ Your may take ONE of the following:
   - The top card of the stock.
   - One of the cards discarded to the dump pile by the previous player. If a
     sequence was discarded then you may ONLY take the first OR the last card
-	in said sequence. If a set was laid then you may only take one of the end
-	cards.
+    in said sequence. If a set was laid then you may only take one of the end
+    cards.
 
 SCORING
 
