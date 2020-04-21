@@ -19,10 +19,10 @@ DEAL   Deal cards to the players according to the number of players:
 
 PLAY
   
-Massa sapien faucibus et molestie. Sed adipiscing diam donec adipiscing
-tristique risus nec feugiat. Nibh ipsum consequat nisl vel pretium lectus quam
-id leo. Nunc vel risus commodo viverra. Non enim praesent elementum facilisis
-leo vel fringilla.
+The are four primary roles in this game.  The demagogue is the highest ranking
+player followed by the nephew.  The lowest ranked player is called the idiot
+who is only superseded by the prole.  Everyone else in the game is ranked as
+an undifferentiated collective with spurious social mobility.
     
 On a players turn may <COUNT> of the following <COUNT> actions:
 
