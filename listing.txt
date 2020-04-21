@@ -4,12 +4,23 @@
 ├── abstract
 │   └── mate-rules.txt
 ├── cards
+│   ├── ace-ten
+│   │   └── zsirozas.txt
+│   ├── climbing
+│   │   ├── gan-deng-yen-rules.txt
+│   │   ├── guan-dan-rules.txt
+│   │   └── temple-rules.txt
 │   ├── discard
 │   │   └── yaniv-rules.txt
+│   ├── jass
+│   │   └── mittlere-rules.txt
 │   └── rummy
 │       └── gin-rules.txt
 ├── listing.txt
-└── sowing
-    └── cups-rules.txt
+├── sowing
+│   └── cups-rules.txt
+└── templates
+    ├── cards-french-pack.txt
+    └── rules-template.txt
 
-5 directories, 7 files
+9 directories, 14 files

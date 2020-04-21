@@ -1,2 +1,40 @@
--*- mode: markdown -*-
+		       **Temple (aka 大富豪)**
+                             from Japan
+			   for 4-7 players
 
+Temple is a variantion of the game Daifugo (大富豪) from Japan which is also
+playing in the United States under the name President, Scum, or Asshole. These
+games are often played with house rules and variations and this is one such
+way to play. Unlike most games of this genre, Temple is enhanced with a
+little role-playing but it's not strictly required.
+
+GOAL   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+       tempor incididunt ut labore et dolore magna aliqua.
+
+DECK   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+       ut aliquip ex ea commodo consequat.
+ 
+DEAL   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+       dolore eu fugiat nulla pariatur.
+
+PLAY
+  
+Massa sapien faucibus et molestie. Sed adipiscing diam donec adipiscing
+tristique risus nec feugiat. Nibh ipsum consequat nisl vel pretium lectus quam
+id leo. Nunc vel risus commodo viverra. Non enim praesent elementum facilisis
+leo vel fringilla.
+    
+On a players turn may <COUNT> of the following <COUNT> actions:
+
+  - Mauris pellentesque pulvinar pellentesque habitant.
+  
+  - Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus.
+
+Pharetra et ultrices neque ornare. Augue neque gravida in fermentum et
+sollicitudin. Quisque id diam vel quam elementum pulvinar etiam.
+
+SCORING
+
+Odio morbi quis commodo odio aenean sed adipiscing diam donec. Diam in arcu
+cursus euismod quis viverra nibh. Posuere urna nec tincidunt praesent semper.
+Neque convallis a cras semper auctor neque vitae tempus.
