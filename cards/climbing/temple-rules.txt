@@ -8,14 +8,14 @@ games are often played with house rules and variations and this is one such
 way to play. Unlike most games of this genre, Temple is enhanced with a
 little role-playing but it's not strictly required.
 
-GOAL   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-       tempor incididunt ut labore et dolore magna aliqua.
+GOAL   To shed all of your cards before all of the other players and retain or
+       enhance your social standing within the game.
 
-DECK   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-       ut aliquip ex ea commodo consequat.
+DECK   Shuffle a standard pack of playing cards, including both Jokers.
  
-DEAL   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-       dolore eu fugiat nulla pariatur.
+DEAL   Deal cards to the players according to the number of players:
+	 4 = 13 cards, 5 = 10 cards, 6 = 8 cards, 7 = 7 cards
+       Set the remaining cards aside without looking at them.
 
 PLAY
   
