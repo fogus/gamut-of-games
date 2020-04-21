@@ -1,8 +1,8 @@
-		       **Temple (aka 大富豪)**
-                             from Japan
+			    **The Temple**
+			     from the USA
 			   for 4-7 players
 
-Temple is a variantion of the game Daifugo (大富豪) from Japan which is also
+Temple is a variation of the game Daifugo (大富豪) from Japan which is also
 playing in the United States under the name President, Scum, or Asshole. These
 games are often played with house rules and variations and this is one such
 way to play and the way that my family plays. Unlike most games of this genre,
@@ -19,12 +19,12 @@ DEAL   Deal cards to the players according to the number of players:
 
 PLAY
   
-The are four primary roles in this game.  The emporer is the highest ranking
-player followed by the nephew.  The lowest ranked player is called the idiot
+The are four primary roles in this game.  The emperor is the highest ranking
+player followed by the nephew.  The lowest ranked player is called the beggar
 who is only superseded by the prole.  Everyone else in the game is ranked as
 an undifferentiated collective with spurious social mobility.
     
-Starting with the emporer each player plays a set or passes. Each played set
+Starting with the emperor each player plays a set or passes. Each played set
 must consist of a higher rank than the previously played set.
 
 The ranks are as follows:
@@ -46,23 +46,29 @@ Sets are composed as follows:
 
 Play proceeds until someone sheds all of their cards.  The first person to run
 out of cards is the emperor for the next round.  The second person becomes the
-nephew and so on until the last person remaining becomes the idiot.  Special
+nephew and so on until the last person remaining becomes the beggar.  Special
 cards are cashed in and seats are exchanged according to social rankings.
 
 EXCHANGE
 
 A fresh hand is dealt and then cards are exchanged according to the following:
 
-The idiot gives the demagogue their two highest ranked cards in exchange for whatever the demagogue wishes to give.
-The prole gives the nephew their single highest ranked card in exchange for whatever the nephew wishes to give.
+The beggar gives the emperor their two highest ranked cards in exchange for
+whatever the emperor wishes to give. The prole gives the nephew their single
+highest ranked card in exchange for whatever the nephew wishes to give.
 
-Before play of the hand begins the idiot may look through the left-over cards and exchange one for one of their cards.
+Before play of the hand begins the beggar may look through the left-over cards
+and exchange one for one of their cards in hand.
 
-Players may come and go as they see fit and new players always start as one of the indistinguishable collective.
+Players may come and go as they see fit and new players always start as one
+of the indistinguishable collective.
 
+EDICTS
 
-SCORING
+If at any time the beggar becomes the emperor then an edict can be declared.
+An edict is simply a non-contradictory amendment to the current rules of play. 
 
-Odio morbi quis commodo odio aenean sed adipiscing diam donec. Diam in arcu
-cursus euismod quis viverra nibh. Posuere urna nec tincidunt praesent semper.
-Neque convallis a cras semper auctor neque vitae tempus.
+END
+
+There is no score-keeping. Play into the night until exhausted.
+
