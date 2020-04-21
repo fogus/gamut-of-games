@@ -5,8 +5,8 @@
 Temple is a variantion of the game Daifugo (大富豪) from Japan which is also
 playing in the United States under the name President, Scum, or Asshole. These
 games are often played with house rules and variations and this is one such
-way to play. Unlike most games of this genre, Temple is enhanced with a
-little role-playing but it's not strictly required.
+way to play and the way that my family plays. Unlike most games of this genre,
+Temple is enhanced with a little role-playing but it's not strictly required.
 
 GOAL   To shed all of your cards before all of the other players and retain or
        enhance your social standing within the game.
@@ -19,19 +19,47 @@ DEAL   Deal cards to the players according to the number of players:
 
 PLAY
   
-The are four primary roles in this game.  The demagogue is the highest ranking
+The are four primary roles in this game.  The emporer is the highest ranking
 player followed by the nephew.  The lowest ranked player is called the idiot
 who is only superseded by the prole.  Everyone else in the game is ranked as
 an undifferentiated collective with spurious social mobility.
     
-On a players turn may <COUNT> of the following <COUNT> actions:
+Starting with the emporer each player plays a set or passes. Each played set
+must consist of a higher rank than the previously played set.
 
-  - Mauris pellentesque pulvinar pellentesque habitant.
-  
-  - Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus.
+The ranks are as follows:
 
-Pharetra et ultrices neque ornare. Augue neque gravida in fermentum et
-sollicitudin. Quisque id diam vel quam elementum pulvinar etiam.
+		   Joker < Ace < 2 … 10 < J < K < Q
+
+Jokers are wild but may never be used as Queens. By themselves, Jokers are
+considered the lowest ranked cards.
+
+Sets are composed as follows:
+
+  - Single - any one card
+  - Pair - 2 cards of the same rank
+  - Triple - 3 cards of the same rank
+  - Quad - 4 cards of the same rank
+  - Run - 3 or more consecutive cards
+  - Tube - 3 consecutive pairs
+  - Plate - 2 consecutive triples
+
+Play proceeds until someone sheds all of their cards.  The first person to run
+out of cards is the emperor for the next round.  The second person becomes the
+nephew and so on until the last person remaining becomes the idiot.  Special
+cards are cashed in and seats are exchanged according to social rankings.
+
+EXCHANGE
+
+A fresh hand is dealt and then cards are exchanged according to the following:
+
+The idiot gives the demagogue their two highest ranked cards in exchange for whatever the demagogue wishes to give.
+The prole gives the nephew their single highest ranked card in exchange for whatever the nephew wishes to give.
+
+Before play of the hand begins the idiot may look through the left-over cards and exchange one for one of their cards.
+
+Players may come and go as they see fit and new players always start as one of the indistinguishable collective.
+
 
 SCORING
 
