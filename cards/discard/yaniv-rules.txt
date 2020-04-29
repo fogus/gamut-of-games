@@ -5,8 +5,8 @@
 
 GOAL   To earn the fewest points each round and to have the fewest points at
        the end of the game. The game should consist of a number of rounds
-	   equally divisible by the number of players or end when any player 
-	   reaches a certain score.
+       equally divisible by the number of players or end when any player 
+       reaches a certain score.
 
 DECK   For 2-3 players use a standard French pack with two jokers. For 4-5 
        players combine two such decks. Cards are shuffled before the deal.
