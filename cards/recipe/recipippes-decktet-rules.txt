@@ -1,6 +1,7 @@
 			    **Recipippes**
 			a game for the Decktet
 			   for 2-4 players
+			      by @fogus
                              
 
 GOAL   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
