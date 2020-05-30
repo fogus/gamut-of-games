@@ -4,14 +4,20 @@
 			      by @fogus
                              
 
-GOAL   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-       tempor incididunt ut labore et dolore magna aliqua.
+GOAL   To have the most points in pawn (1pt each) and court (2pts each) cards
+       when the game ends.
 
-DECK   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-       ut aliquip ex ea commodo consequat.
+DECK   An extended Decktet deck with the pawns, courts, and The Excuse
+       separated from the rest. Shuffle the pawns and courts together and
+       set aside face down. One player says "pawn" or "court" and the top
+       card is drawn. If it's the same as what the player said then they
+       may choose to be either the 1st or 2nd player. The 2nd player is
+       then given The Excuse and the previously drawn card is placed at
+       the bottom of the pawn/court pile. The base cards are then shuffled
+       thoroughly and placed away from the pawn/court pile.
  
-DEAL   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-       dolore eu fugiat nulla pariatur.
+DEAL   Deal 3 cards from the draw deck to each player. Then 3 cards are
+       drawn from the pawn/court pile and placed face up between the players.
 
 PLAY
   
