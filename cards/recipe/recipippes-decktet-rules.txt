@@ -29,7 +29,7 @@ On a player's turn they must take the following two actions, in order:
 
 The possible actions are as follows:
 
-* Draw an extra card from the top of draw deck or the top of the discard pile
+* Draw a card from the top of draw deck or the top of the discard pile
 * Trade in cards
 * Capture a pawn/court card
 * Steal a pawn/court card
@@ -38,31 +38,68 @@ More information for these actions are as follows:
 
 /Draw/
 
-The simplest action is to draw another card in addition to the initial mandatory draw. There is a 10-card hand size limit, but you may go over this limit using your draw actions. If at any time the draw pile is empty then the discard pile is shuffled and placed as the new draw pile.
+The simplest action is to draw another card in addition to the initial
+mandatory draw. There is a 10-card hand size limit, but you may go over
+this limit using your draw actions. If at any time the draw pile is empty
+then the discard pile is shuffled and placed as the new draw pile.
 
 /Trade/
 
-The active player may instead discard as many cards as they wish and draw up to the same number from the draw pile, reshuffling discards as needed. If on your turn you are above the hand size limit then you must use the Trade action to reduce your hand size to at most 10 cards
+The active player may instead discard as many cards as they wish and draw
+up to the same number from the draw pile, reshuffling discards as needed.
+If on your turn you are above the hand size limit then you must use the
+Trade action to reduce your hand size to at most 10 cards
 
 /Capture/
 
-Using any combination of cards in their hand, the active player can take one pawn/court card from the face-up display. All of the suits on the cards captured from the face-up display must be represented on the cards used to capture -- any "extra" suits used are ignored, but you may not use extra cards that do not contribute to the capture. For example, The Harvest pawn card may be captured with a combination of The Pact and The Sailor since between them the needed Sun/Leaf/Moon suits are present while the additional Wave suit is ignored.
+Using any combination of cards in their hand, the active player can take
+one pawn/court card from the face-up display. All of the suits on the cards
+captured from the face-up display must be represented on the cards used to
+capture -- any "extra" suits used are ignored, but you may not use extra
+cards that do not contribute to the capture. For example, The Harvest pawn
+card may be captured with a combination of The Pact and The Sailor since
+between them the needed Sun/Leaf/Moon suits are present while the additional
+Wave suit is ignored.
 
-Whenever a card is captured, another card is drawn from the pawn/court deck to replace it in the display. The cards used to capture can be arranged in any order and placed at the top of the discard pile.
+Whenever a card is captured, another card is drawn from the pawn/court
+deck to replace it in the display. The cards used to capture can be
+arranged in any order and placed at the top of the discard pile.
 
 /Steal/
 
-Optionally, the active player may capture a paw/court card from the other player by matching its suits exactly. That is, only the suits needed to capture the card are present with no extras included. For example, The Harvest pawn card may only be stolen from another player using a combination of cards containing only the Moon/Sun/Leaf suits such as The Pact and The End.
+Optionally, the active player may capture a paw/court card from the other
+player by matching its suits exactly. That is, only the suits needed to
+capture the card are present with no extras included. For example, The
+Harvest pawn card may only be stolen from another player using a
+combination of cards containing only the Moon/Sun/Leaf suits such as The
+Pact and The End.
 
-In addition to the cards used to capture, the thief must place at least one additional card as support to the Steal action. The total value of the support cards' ranks will determine the strength of the steal attempt. The defending player can then choose to counter the steal by playing cards that equal or exceed the rank total of the steal support cards. For our purposes aces are worth 1pt, crowns 10pts, and the other cards are worth their rank value. If the steal is defended then all the cards are discarded, but if not then only the thief's card are discarded. The player who was stolen from gets The Excuse or keeps it if they already held it.
+In addition to the cards used to capture, the thief must place at least
+one additional card as support to the Steal action. The total value of
+the support cards' ranks will determine the strength of the steal attempt.
+The defending player can then choose to counter the steal by playing cards
+that equal or exceed the rank total of the steal support cards. For our
+purposes aces are worth 1pt, crowns 10pts, and the other cards are worth
+their rank value. If the steal is defended then all the cards are discarded,
+but if not then only the thief's card are discarded. The player who was
+stolen from gets The Excuse or keeps it if they already held it.
 
-The cards used to steal and defend can be arranged in any order and placed at the top of the discard pile by the player who was stolen from.
+The cards used to steal and defend can be arranged in any order and placed
+at the top of the discard pile by the player who was stolen from.
 
-The Excuse is used only as a tie-breaking point card. Players cannot use The Excuse directly, but it will potentially change hands numerous times during a game. In the absence of Theft during a game the second player will hold the card. Otherwise, the player who was last stolen from will hold The Excuse.
+The Excuse is used only as a tie-breaking point card. Players cannot use
+The Excuse directly, but it will potentially change hands numerous times
+during a game. In the absence of Theft during a game the second player
+will hold the card. Otherwise, the player who was last stolen from will
+hold The Excuse.
 
 SCORING
 
-When the pawn/court draw deck is exhausted each player gets one more turn to capture or steal, after which the game ends. However, the game will end immediately once the draw deck has been exhausted for the second time.
+When the pawn/court draw deck is exhausted each player gets one more turn
+to capture or steal, after which the game ends. However, the game will
+end immediately once the draw deck has been exhausted for the second time.
 
-The players then add up their points (1pt for pawns, 2pts for courts). The player with the highest score wins. In the case of a tie the player holding The Excuse wins.
+The players then add up their points (1pt for pawns, 2pts for courts).
+The player with the highest score wins. In the case of a tie the player
+holding The Excuse wins.
 
