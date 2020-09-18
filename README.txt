@@ -13,3 +13,9 @@ Whenever possible, the games should be "ported" to the French pack of cards.
 - *Card Game Around the World* by Sid Sackson
 - *Play Winning Card Games for Three* by David Parlett
 
+# todo
+
+- Cucumber
+- Discordian Solitaire
+- Mini-Bridge
+- Schotten Totten (4 suits, 1-10, 7 flags)
