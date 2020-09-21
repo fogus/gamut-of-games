@@ -13,9 +13,19 @@ Whenever possible, the games should be "ported" to the French pack of cards.
 - *Card Game Around the World* by Sid Sackson
 - *Play Winning Card Games for Three* by David Parlett
 
-# todo
+# possible ports and missing rules
 
 - Cucumber
 - Discordian Solitaire
+- Écarté
+- Lectio
+- Loco!
+- Lost Cities (4 suits, 6-card hand, 2-10, face cards are investors)
 - Mini-Bridge
+- PA Deck games?
+- Pico 1 & 2
+- Qyshinsu: Mystery of the Way
 - Schotten Totten (4 suits, 1-10, 7 flags)
+- Skull with Hanafuda
+- Le Truc
+- Zetema
